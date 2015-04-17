@@ -1,4 +1,1 @@
-<?php
-phpinfo();
-php
-?>
+欢迎使用cicms
